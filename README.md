@@ -1,5 +1,4 @@
 ## Hi there 👋
-Nishi Mehra this side 
 ```md
 <div align="center">
 

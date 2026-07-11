@@ -61,7 +61,7 @@
 
 *"stay soft, dream big, and keep shipping."* 💗
 
-🐱 🍓 ☁️ 🎀 ✨ wowoowo
+🐱 🍓 ☁️ 🎀 ✨ 
 
 </div>
 ```

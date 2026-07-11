@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎀 Hey, I'm Nishi. 💗 .
+# 🎀 Hey, I'm Nishi. 💗 
 
 ### your favorite hello kitty full-stack developer 🐱🌸
 
@@ -61,7 +61,7 @@
 
 *"stay soft, dream big, and keep shipping."* 💗
 
-🐱 🍓 ☁️ 🎀 ✨
+🐱 🍓 ☁️ 🎀 ✨ wowoowo
 
 </div>
 ```

@@ -20,7 +20,7 @@ Building web applications and learning modern software development.
 
 ### Tech Stack
 
-`JavaScript` `React` `Next.js` `Node.js` `Python` `C++`  `MySQL` `Git`
+`JavaScript` `React` `Next.js` `Node.js` `Python` `C++`  `MySQL` `Git` `Netlify` `HTML` `CSS`
 
 ---
 

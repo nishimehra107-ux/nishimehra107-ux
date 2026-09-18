@@ -1,12 +1,18 @@
 <div align="center">
 
-# Nishi Mehra
+# 🎀 Nishi Mehra 🎀
 
 **BCA Student • Full-Stack Developer**
 
 Building web applications and learning modern software development.
 
-[LinkedIn](https://www.linkedin.com/in/nishi-mehra-46b87035b/) · [GitHub](https://github.com/nishimehra107-ux)
+<a href="https://www.linkedin.com/in/nishi-mehra-46b87035b/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/nishimehra107-ux">
+  <img src="https://skillicons.dev/icons?i=github" width="35"/>
+</a>
 
 </div>
 
@@ -29,5 +35,6 @@ Building web applications and learning modern software development.
 *Always learning. Always building.*
 
 </div>
+
 
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎀 Nishi Mehra 🎀
+# Nishi Mehra 
 
 **BCA Student • Full-Stack Developer**
 
